@@ -1,4 +1,8 @@
-# AWS-Cloud-Solutions-Architect-Professional-Certificate
+# Professional Certificate in Cloud Architecture (4-Course Series)
+
+   * Acquired in-depth knowledge and hands-on skills in AWS Cloud Architecture, including key services for compute, storage, database, networking, monitoring, and security.
+   * Designed architectural solutions and operated data lakes, aligned with industry best practices.
+   * Prepared for the AWS Certified Solutions Architect - Associate exam, focusing on designing and deploying scalable, resilient, and secure cloud solutions.
 
 1. [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/DT7ND4D5GCM7)
 2. [Architecting Solutions on AWS](https://www.coursera.org/account/accomplishments/verify/3LJ3PPGB2H8H)
