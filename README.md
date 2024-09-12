@@ -1,4 +1,4 @@
-# Professional Certificate in Cloud Architecture [4-Course Series](https://www.coursera.org/programs/los-gatos-library-pjaqd/professional-certificates/aws-cloud-solutions-architect?source=search#courses)
+# Professional Certificate in Cloud Architecture [Certificate](https://coursera.org/share/14872441585babca36819846fa997fcf)
 
    * Acquired in-depth knowledge and hands-on skills in AWS Cloud Architecture, including key services for compute, storage, database, networking, monitoring, and security.
    * Designed architectural solutions and operated data lakes, aligned with industry best practices.
